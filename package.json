@@ -1,0 +1,15 @@
+{
+  "name": "s18e02-mongo-flix",
+  "version": "1.0.0",
+  "description": "Maintenant qu'on connaît mieux MongoDB, on va pouvoir le mettre en application dans un environnement qu'on connaît bien, une app Express ! Le but de cet exercice est de gérer une collection de films. MongoDB sera utilisé pour stocker les données.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
